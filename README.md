@@ -24,7 +24,7 @@ The hardware required for this to function includes everything for the PIR basic
   * [https://smartanimaltraining.com/products/feeder-only](https://smartanimaltraining.com/products/feeder-only)
 + One cardboard tub, like a toilet paper or paper towel tube
 
-The code (arduino sketch) is used to allow the Bean+ to use the Seeed PIR, or passive infra red, motion detector to detect motion and request the Pet Tutor Blu iOS app (Version: 1.3 [https://itunes.apple.com/us/app/pettutor-blu/id934260904](https://itunes.apple.com/us/app/pettutor-blu/id934260904) ) to trigger the Pet Tutor Blu feeder to dispense kibbles.
+The code (arduino sketch) is used to allow the Bean+ to use the Seeed PIR, or passive infra red, motion detector to detect motion and request the Pet Tutor Blu app (iOS Version: 1.3 [https://itunes.apple.com/us/app/pettutor-blu/id934260904](https://itunes.apple.com/us/app/pettutor-blu/id934260904) or Andriod version 0.2.8 [https://play.google.com/store/apps/details?id=com.duffekmobile.pettutorblu](https://play.google.com/store/apps/details?id=com.duffekmobile.pettutorblu) ) to trigger the Pet Tutor Blu feeder to dispense kibbles.
 
 #### Use cases for a PIR, Bean+, and Pet Tutor Pro with Bluetooth
 How can the ability to detect a person or motion be of help in training pets? Below are some use cases. 
