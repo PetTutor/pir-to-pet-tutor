@@ -5,6 +5,8 @@ A demonstratrion video of the hardware and software in action is at: https://www
 
 #### pir-basic-demo.ino
 
+`NOTE: The Bean+ BLE single board is no longer available but other BLE devices could be used such as Arduino or ESP32.`
+
 A basic PIR demo, only requires the Bean+ and the PIR detector. 
 
 The hardware required for this to function includes:
